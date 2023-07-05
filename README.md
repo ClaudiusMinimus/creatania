@@ -27,7 +27,7 @@ Connecting ![Botania](https://cf.way2muchnoise.eu/title/225643.svg) and ![Create
 
 ### Food?
 
-- Mana gel is a mysterious item, it is said to provide great benefits when eaten, but seems like the way to acquire it has been lost. Maybe there is a secret?
+- Mana gel is a mysterious item, it is said to provide great benefits when eaten, but seems like the way to acquire it has been lost. Maybe there is a secret?  
 
 ### Fluids
 
